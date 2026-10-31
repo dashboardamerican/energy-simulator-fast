@@ -1,0 +1,17 @@
+{
+  "engine": "v15-rules-only",
+  "staticrypt": "3.5.4",
+  "files": {
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "index.html": "1bad4de58e88af87f20db888b65dd91f0a0569a02cc84a63ab59a43f7933bfd4",
+    "system-planner/cache.bin.zlib": "c9f1215c4800a8d78e7fc5a0a32f9462eb33e6474bf59f6b16c0a422b196c802",
+    "system-planner/extension-v10.bin.zlib": "625c42bf81f8e6121c58c2330d2ae1b9f9cfa7f3b05a7924b5b3a43ebe3b22fc",
+    "system-planner/kernel.wasm": "eafead514219dfe82b886314741c49fcaba6947eb434058a3fb41a441912688b",
+    "system-planner/manifest.json": "d08e9e5d318d96761511e181a685fddadf1f4461247ced3c4e0eb22464ee5a5f",
+    "system-planner/profiles.json": "7ffd5f6f072aaf3e97bdd46d7bea4f339df9373b28ab6425bd358ead48a8dd2e",
+    "system-planner/upper-planes.json.zlib": "31a669624d9cb18ac7361121269e664e5a2f02a8bb9fc6d7831bbe9b64a0ee26",
+    "assets/index-BWJ2zdzQ.js": "e3e09353213bedc057af4155c74a895f53a78d349a2a016eba1fab39450d1389",
+    "assets/index-DnNY1T-e.css": "7ace38ce22e05a827cb7a6072af8d50b9cb93a13aaa81bfc292bb92b8ad257d9",
+    "assets/system-planner-worker-D3zyrbmH.js": "c4580a71d2beb189a5f7d83e298b1fb0ebf8054b84617f5f095cd91189197d47"
+  }
+}
