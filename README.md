@@ -1,9 +1,7 @@
 # Energy Simulator Fast
 
-Password-protected beta: https://dashboardamerican.github.io/energy-simulator-fast/
+https://dashboardamerican.github.io/energy-simulator-fast/
 
-Rules-only capacity planning and matching hourly dispatch. This repository contains only the Staticrypt-encrypted site build. No plaintext HTML alternative or password is stored here. Staticrypt protects HTML, not separately served model assets.
+Original dashboard interface with an additional Fast system-cost optimizer and selectable LP-like exclusive battery dispatch. Staticrypt protects the HTML entry; the existing password remains valid. Legacy sweep and ELCC tools require an existing battery mode.
 
-The solver uses a small capacity LP with exclusive native storage dispatch. Unresolved cost bounds are labeled; no universal optimality or latency guarantee is made. System resource cost excludes investor financing and subsidies.
-
-Release identity and file checksums: release-manifest.json. Editable source and full validation are retained in the development workspace release folder.
+This publishing repository contains encrypted static build assets. Editable source: energy-simulator-dashboard in the development workspace releases folder.
